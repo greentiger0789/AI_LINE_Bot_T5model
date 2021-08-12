@@ -1,7 +1,4 @@
 transformers==4.4.2
-torch==1.7.1+cu110
-torchtext==0.8.0
-torchvision==0.8.2
 neologdn==0.5.1
 pydantic==1.8.2
 fastapi==0.68.0
