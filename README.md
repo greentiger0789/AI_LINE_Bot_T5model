@@ -8,6 +8,8 @@ FastAPIを用いてWeb API化し，HTTPプロトコルを用いて送受信を�
 
 ### 全体像
 
+![OCdemoModel説明S](https://user-images.githubusercontent.com/51241162/129188640-2239f26b-5844-4129-9825-4616841a29b3.png)
+
 [T5の日本語事前学習済みモデル](https://qiita.com/sonoisa/items/a9af64ff641f0bbfed44)をお借りしました．
 
 WebAPI化のため，FastAPIを用いています．
