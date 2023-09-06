@@ -42,7 +42,7 @@ brew install ngrok
 
 ## Usage
 
-1. `textdataset.txv`作成後，`T5_text_classification.ipynb'`を実行．
+1. `textdataset.tsv`作成後，`T5_text_classification.ipynb'`を実行．
 2. `オンライン予測WebAPI`ディレクトリに移動，`uvicorn main:app –-reload`でAPIをLANに公開．
 3. `ngrok http 8000`でWANに公開（Windowsの場合，`./ngrok http 8000`）．
 
